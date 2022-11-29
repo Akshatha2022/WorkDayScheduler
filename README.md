@@ -79,4 +79,4 @@ Project Link:
 
 Repository Link: https://github.com/Akshatha2022/WorkDayScheduler
 
-Project Link: 
+Project Deployed Link: https://akshatha2022.github.io/WorkDayScheduler/
