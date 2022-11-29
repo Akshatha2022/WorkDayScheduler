@@ -41,18 +41,42 @@ The following animation demonstrates the application functionality:
 Works:
 
 When we open planner, current day and time (Central Time) is displayed. 
+
 When we scroll down, timeblocks for standar business hours (8AM - 5PM) is presented.
+
 Each timeblock is color coded to indicate if it is in the past, present, or future.
+
 When clicked on Timeblock, we can enter an event and when we save the details the text is saved in local storage.
+
 When the page is refreshed, the saved text/events still persists.
+
+
+
 
 Below are the screenshots
 
+If time is > 6PM, below screen is presented where the color is grey
 ![A user clicks on slots on the color-coded calendar and edits the events.](./Assets/images/WorkDayScheduler.jpg)
 
+If time is within 5PM, below screen is presented and when clicked on save button, it saves in local storage
+![A user clicks on slots on the color-coded calendar and edits the events.](/Assets/images/WorkDaySchedulerScreen.jpg)
 
 
 
+
+
+
+Resources:
 
 https://www.w3.org/TR/wai-aria-1.1/#aria-hidden
+
 https://learn.jquery.com/using-jquery-core/document-ready/
+
+Youtube Videos
+
+
+Project Link:
+
+Repository Link: https://github.com/Akshatha2022/WorkDayScheduler
+
+Project Link: 
